@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048255030584",
+    "firebase_url": "https://staffbusmoveit.firebaseio.com",
+    "project_id": "staffbusmoveit",
+    "storage_bucket": "staffbusmoveit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048255030584:android:c1c46f362fe3d081bf8dcd",
+        "android_client_info": {
+          "package_name": "com.moveit.movestaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048255030584-a1nl4toer8i9skafh1hkrj66ivo5ebvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moveit.movestaff",
+            "certificate_hash": "44ee108aff33f5b3d3ecc8671ae0a5f5b75c0538"
+          }
+        },
+        {
+          "client_id": "1048255030584-dhbgk1c7hpd3v3m3jco61fgfu7fim7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lbNWx7Jo7kJXQ2fbiEtON6mb0mDHqL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048255030584-dhbgk1c7hpd3v3m3jco61fgfu7fim7ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
